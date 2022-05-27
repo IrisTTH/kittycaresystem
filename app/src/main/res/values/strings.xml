@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">kitty care system</string>
+    <string name="welcome">--------------WELCOME------------</string>
+    <string name="password">Password</string>
+    <string name="breederid">BreederID</string>
+    <string name="login">LOGIN</string>
+    <string name="todo">TODO</string>
+    <string name="title_activity_cat_data">CatData</string>
+    <string name="title_activity_catdata">Catdata</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="add_cat_information">Add Cat Information</string>
+    <string name="modify_cat_information">Modify Cat Information</string>
+    <string name="overview_data">OverView Data</string>
+    <string name="Todo2">TODO</string>
+    <string name="todo2">TODO</string>
+    <string name="cat_variety">Cat Variety</string>
+    <string name="cat_name">Cat Name</string>
+    <string name="cat_sex">Cat Sex</string>
+    <string name="cat_age">Cat Age</string>
+    <string name="save">SAVE</string>
+    <string name="todo3">TODO</string>
+    <string name="message">Message</string>
+    <string name="Re_password">Password</string>
+    <string name="cancle">取消註冊</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="complete">完成註冊</string>
+    <string name="user_name">User Name</string>
+    <string name="finish">完成註冊</string>
+    <string name="register">註冊</string>
+    <string name="user_id">User ID</string>
+</resources>
